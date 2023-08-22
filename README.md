@@ -11,5 +11,5 @@
 
 Sejam bem vindos à nossa primeira simulação de moléculas em movimento!!!
 <hr>
-<summary><h3>Desafio 1 - Descrição do movimento de partículas</h3></summary>
+<summary><h4>Desafio 1 - Descrição do movimento de partículas</h4></summary>
 <p align='justify'>O primeiro desafio proposto na disciplina de Cinética Química implica no desenvolvimento de um modelo de simulação de partículas presentes em uma reação química escolhida, em que duas (ou mais) partículas colidem elasticamente entre si. Nesse sentido é preciso atentar aos princípios da Física que dizem respeito a colisão, momento e energia, bem como a influência de variáveis termodinâmicas no comportamento dessas partículas. Ao final, procuramos obter uma simulação que aja de acordo com as variáveis físicas presentes no sistema.</p>
