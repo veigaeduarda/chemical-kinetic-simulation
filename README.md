@@ -19,3 +19,8 @@ Sejam bem vindos à nossa primeira simulação de moléculas em movimento!!!
 
 Neste desafio, estamos envolvidas na tarefa de definir a reação química e as leis de velocidade. Como parte desse processo, estamos considerando que as partículas mencionadas no desafio anterior (os reagentes) podem sofrer conversão em outro tipo de partícula (os produtos), caracterizando assim uma reação química. Essa conversão está sendo regida pelas leis de velocidade de conversão, que foram estabelecidas por meio de experimentação. Essas leis são representadas por equações diferenciais que levam em conta tanto a concentração dos reagentes quanto uma constante específica chamada de ordem da reação. 
 A nossa intenção inicial é fazer com que as bolinhas de diferentes cores se coliDam e formem uma terceira bolinha com cor distinta das duas inicias com o fim de representar uma reação, ou seja, A+B=C.
+
+<summary><h4>Desafio 3 - </h4></summary>
+No último desafio deve se considerar que a conversão de reagentes para produtos depende de aspectos espaciais e energéticos. Nem toda colisão atômica ou molecular entre reagentes leva à formação de produtos. Há questões estereoquímicas (espaciais) envolvidas que regem a formação dos produtos. Além disso, deve se considerar que existem os catalisadores que podem alterar completamente as leis de velocidade
+para as reações. 
+
